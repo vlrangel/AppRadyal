@@ -1,0 +1,45 @@
+{
+  "id": "603b787c-512c-400a-ba84-0baab6fb7760",
+  "name": "Radyal",
+  "publisher": "MayBeCloud",
+  "version": "1.0.2.20",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "res/kuarasoft.png",
+  "dependencies": [
+    {
+      "id": "dbfd5720-e41b-4e84-8a65-3868702c0663",
+      "name": "MaybeCloud WebApp",
+      "publisher": "MaybeCloud",
+      "version": "1.0.0.3"   
+    
+    },
+    {
+      "id": "7b9c58b5-a65c-42f9-b77f-61cae514a41d",
+      "name": "ParteHoras",
+      "publisher": "MaybeCloud",
+      "version": "1.0.0.24"
+    }
+
+    ],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "21.2.0.0",
+    "idRanges": [
+      {
+        "from": 50000,
+        "to": 99999
+      }
+    ],  
+  "runtime": "10.0",
+   "features": [
+    "NoImplicitWith",
+    "TranslationFile",
+    "GenerateLockedTranslations",
+    "GenerateCaptions"
+  ]
+  }
